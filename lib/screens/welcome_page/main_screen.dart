@@ -65,7 +65,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                   ),
                 ),
                 const SizedBox(
-                  height: 80,
+                  height: 60,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
