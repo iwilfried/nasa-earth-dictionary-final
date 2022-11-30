@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:nasa/data/data.dart';
 import 'package:nasa/screens/Home_page/widgets/drawer.dart';
 
-
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
@@ -23,7 +22,7 @@ class HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("NASA Abbreviations"),
+        title: const Text("ECOMMERCE Definitionen"),
         centerTitle: true,
         scrolledUnderElevation: 0,
       ),
