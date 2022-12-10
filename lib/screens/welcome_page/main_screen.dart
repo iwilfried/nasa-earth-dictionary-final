@@ -44,17 +44,17 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                         style: GoogleFonts.oswald(
                           textStyle: const TextStyle(
                             color: Colors.white,
-                            fontSize: 30,
+                            fontSize: 36,
                           ),
                         ),
                         children: [
                       TextSpan(
-                      text: "   GLOSARY",
+                      text: "   GLOSsARY",
                      // textAlign: TextAlign.center,
                       style: GoogleFonts.oswald(
                         textStyle: const TextStyle(
                           color: Colors.red,
-                          fontSize: 32,
+                          fontSize: 36,
                         ),
                       ),
                       )
