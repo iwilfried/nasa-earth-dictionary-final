@@ -49,7 +49,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                         ),
                         children: [
                       TextSpan(
-                      text: "   GLOSsARY",
+                      text: "   GLOSSARY",
                      // textAlign: TextAlign.center,
                       style: GoogleFonts.oswald(
                         textStyle: const TextStyle(
@@ -63,7 +63,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                     ),
                   ),
                   const SizedBox(
-                    height: 35,
+                    height: 30,
                   ),
                   const Padding(
                     padding: EdgeInsets.all(30.0),
