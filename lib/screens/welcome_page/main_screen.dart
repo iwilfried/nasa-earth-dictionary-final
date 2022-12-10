@@ -27,7 +27,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 //crossAxisAlignment: CrossAxisAlignment.stretch, adjustment
                 children: [
-                  const SizedBox(height: 50),
+                  const SizedBox(height: 40),
                   Image.asset('assets/images/smallview.png'),
                   const Text("Welcome",
                       style: TextStyle(
